@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Controller/Sale/OrderDetails.java</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Controller/Public/CartCompletion.java</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Helper/DBHelper.java</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/web/OrderDetails.jsp</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Controller/Common/ChangePassword.java</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Dao/UserDao.java</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/web/OrdersList.jsp</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Model/Order.java</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/web/PostDetails.jsp</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Controller/Admin/UsersList.java</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Controller/Common/ResetPassword.java</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Dao/SendMail.java</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Dao/OrderDao.java</file>
+            <file>file:/C:/Users/SANG/Downloads/project_base/src/java/Controller/Common/UserRegister.java</file>
+        </group>
+    </open-files>
+</project-private>
